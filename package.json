@@ -1,6 +1,6 @@
 {
-  "name": "com.ohze.google.firebase.analytics",
-  "version": "12.8.0",
+  "name": "com.undercat.firebase.analytics",
+  "version": "12.8.1",
   "displayName": "Firebase Analytics",
   "description": "Google Analytics helps you understand and engage your players by revealing what actions they're taking inside your game, where they spend the most time, and why they churn. From acquisition to app usage, Google Analytics will give you insights to make better decisions about your game. You can even combine your analytics data with Google Ads to make sure you're running campaigns that deliver you high-quality players.",
   "keywords": [
@@ -12,13 +12,6 @@
   "unity": "2021.1",
   "author": {
     "name": "Google LLC",
-    "email": "hungpt@sandinh.net"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/HungPT-Ohze/com.ohze.google.firebase.analytics"
-  },
-  "dependencies": {
-    "com.ohze.google.firebase.app": "12.8.0"
+    "email": "hcmyxconan12@gmail.com"
   }
 }
