@@ -1,6 +1,6 @@
 {
-  "name": "com.undercat.firebase.analytics",
-  "version": "12.8.1",
+  "name": "com.undercats.firebase.analytics",
+  "version": "12.8.2",
   "displayName": "Firebase Analytics",
   "description": "Google Analytics helps you understand and engage your players by revealing what actions they're taking inside your game, where they spend the most time, and why they churn. From acquisition to app usage, Google Analytics will give you insights to make better decisions about your game. You can even combine your analytics data with Google Ads to make sure you're running campaigns that deliver you high-quality players.",
   "keywords": [
